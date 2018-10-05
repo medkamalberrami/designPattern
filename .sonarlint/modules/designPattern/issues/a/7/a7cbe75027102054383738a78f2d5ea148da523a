@@ -1,0 +1,11 @@
+
+vsquid:S2276%"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Ñº¼äüÿÿÿÿ8ËèŸˆä,HRBLOCKERZBUG
+p
+squid:S1066"9Replace this use of System.out or System.err by a logger.(„Ž‰Ìûÿÿÿÿ8ËèŸˆä,HRMAJORZ
+CODE_SMELL
+p
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ËèŸˆä,HRMAJORZ
+CODE_SMELL
+wsquid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(Ñº¼äüÿÿÿÿ8ËèŸˆä,HRMAJORZBUG
+bsquid:S00108%")Either remove or fill this block of code.(Ñº¼äüÿÿÿÿ8ËèŸˆä,HRMAJORZ
+CODE_SMELL
